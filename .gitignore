@@ -147,3 +147,4 @@ env36/
 
 # dataflows checkpoints
 .checkpoints/
+.Rproj.user
